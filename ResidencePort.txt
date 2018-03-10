@@ -1,0 +1,8 @@
+## Title: ResidencePort
+## APIVersion:  100022
+## SavedVariables: ResidencePort
+## Author:
+## Version: 0.01
+## Author:  |c8900ffxSkullfox|r
+## Description: Adds an icon to teleport to your main residence.
+ResidencePort.lua
